@@ -34,6 +34,7 @@ public class MyGdxGame extends ApplicationAdapter {
 	public boolean disparando = false, derecha = false, izquierda = false;
 	private MyInput myInput = new MyInput(this);
 	public MyGdxGame() {
+
 	}
 
 	public MyGdxGame(int height, int width) {
